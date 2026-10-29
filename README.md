@@ -12,6 +12,14 @@ Construindo aplicações, sistemas e produtos digitais.
 
 ---
 
+## ABOUT
+
+Desenvolvedor de software com foco em interfaces, produtos digitais e sistemas funcionais. Trabalhando entre front-end, mobile, integrações e organização de experiências de uso, busco combinar código, design e clareza de produto.
+
+Atualmente na **Onitelecom**, desenvolvendo aplicações web e mobile, e concluindo **Ciência da Computação** no **UNIPÊ**.
+
+---
+
 ## STACK
 
 **FRONT-END**
