@@ -125,11 +125,11 @@ Capas gráficas autorais para apresentação dos produtos — não são capturas
 
 ## GitHub Analytics
 
-Os endpoints do GitHub Readme Stats retornaram `503` na validação. Estes cards dinâmicos usam o GitHub Profile Summary Cards como alternativa; se o serviço externo estiver indisponível, as demais seções do perfil continuam acessíveis.
+Os endpoints do GitHub Readme Stats retornaram `503` na validação. Para uma leitura mais fiel ao meu uso real de código, usei o gráfico de linguagens por commits, que costuma representar melhor a rotina de desenvolvimento.
 
 ![Estatísticas gerais do GitHub para hg0407](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hg0407&theme=github_dark)
 
-![Linguagens dos repositórios de hg0407](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hg0407&theme=github_dark)
+![Linguagens mais usadas por commits em hg0407](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hg0407&theme=github_dark)
 
 ---
 
