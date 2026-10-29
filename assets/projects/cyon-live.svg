@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title description">
+  <title id="title">CYON Live</title>
+  <desc id="description">Neutral original graphic cover representing live audiovisual content, not an official logo or product screenshot.</desc>
+  <rect width="1200" height="480" fill="#17151d"/>
+  <path d="M762 240a180 180 0 0 1 360 0M812 240a130 130 0 0 1 260 0M862 240a80 80 0 0 1 160 0" fill="none" stroke="#8f7fd0" stroke-width="2" opacity=".65"/>
+  <circle cx="942" cy="240" r="12" fill="#b9a8ff"/>
+  <path d="M942 252v52m-35 0h70" stroke="#b9a8ff" stroke-width="2"/>
+  <path d="M760 350h360" stroke="#393440" stroke-width="2"/>
+  <circle cx="760" cy="350" r="4" fill="#b9a8ff"/>
+  <circle cx="1120" cy="350" r="4" fill="#b9a8ff"/>
+  <text x="78" y="92" fill="#b9a8ff" font-family="Arial, sans-serif" font-size="16" letter-spacing="4">PROJECT / 05</text>
+  <text x="74" y="230" fill="#f3f1f7" font-family="Arial, sans-serif" font-size="72" font-weight="700">CYON Live</text>
+  <path d="M78 280h90" stroke="#a18fe4" stroke-width="3"/>
+  <text x="78" y="330" fill="#b2acbd" font-family="Arial, sans-serif" font-size="17" letter-spacing="3">STREAMING · LIVE TV</text>
+</svg>

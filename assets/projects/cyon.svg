@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title description">
+  <title id="title">CYON Digital</title>
+  <desc id="description">Neutral original graphic cover representing a connected digital ecosystem, not an official logo or product screenshot.</desc>
+  <rect width="1200" height="480" fill="#101722"/>
+  <path d="M728 90l144 82v136l-144 82-144-82V172zM872 172l144-82 144 82v136l-144 82-144-82" fill="none" stroke="#31435d" stroke-width="2"/>
+  <path d="M728 158l144 82 144-82M728 322l144-82 144 82M872 240v-68" fill="none" stroke="#4f8cff" stroke-width="2" opacity=".75"/>
+  <circle cx="728" cy="90" r="10" fill="#8bb4ff"/>
+  <circle cx="1016" cy="90" r="10" fill="#8bb4ff"/>
+  <circle cx="1160" cy="172" r="10" fill="#8bb4ff"/>
+  <circle cx="1016" cy="336" r="10" fill="#8bb4ff"/>
+  <circle cx="872" cy="240" r="14" fill="#4f8cff"/>
+  <circle cx="728" cy="322" r="10" fill="#8bb4ff"/>
+  <text x="78" y="92" fill="#8bb4ff" font-family="Arial, sans-serif" font-size="16" letter-spacing="4">PROJECT / 03</text>
+  <text x="74" y="240" fill="#f3f5fa" font-family="Arial, sans-serif" font-size="82" font-weight="700">CYON</text>
+  <text x="79" y="286" fill="#c7d8f6" font-family="Arial, sans-serif" font-size="25">Digital ecosystem</text>
+  <path d="M78 326h90" stroke="#4f8cff" stroke-width="3"/>
+  <text x="78" y="374" fill="#9ba8ba" font-family="Arial, sans-serif" font-size="16" letter-spacing="2.5">CONNECTIVITY · TECHNOLOGY · SECURITY</text>
+</svg>

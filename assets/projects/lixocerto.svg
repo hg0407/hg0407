@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title description">
+  <title id="title">LixoCerto</title>
+  <desc id="description">Original graphic cover inspired by sustainability and circular reuse, not a product screenshot or official logo.</desc>
+  <rect width="1200" height="480" fill="#13211a"/>
+  <circle cx="924" cy="240" r="153" fill="none" stroke="#365846" stroke-width="2"/>
+  <circle cx="924" cy="240" r="112" fill="none" stroke="#527c60" stroke-width="2" stroke-dasharray="3 12"/>
+  <path d="M902 131c53-2 86 23 98 68-43 5-78-11-98-68zM1000 214c29 44 24 81-8 114-27-33-30-70 8-114zM895 297c-51-8-77-37-78-83 43 2 74 24 78 83z" fill="none" stroke="#99c99e" stroke-width="3"/>
+  <path d="M924 236c-36-16-62-44-77-84m77 84c35-13 57-35 76-68m-76 68c11 35 10 61-1 88" fill="none" stroke="#99c99e" stroke-width="2"/>
+  <circle cx="924" cy="236" r="7" fill="#b9e2b9"/>
+  <text x="78" y="92" fill="#9bc9a0" font-family="Arial, sans-serif" font-size="16" letter-spacing="4">PROJECT / 04</text>
+  <text x="74" y="230" fill="#f1f5ef" font-family="Arial, sans-serif" font-size="70" font-weight="700">LixoCerto</text>
+  <path d="M78 280h90" stroke="#86bd8e" stroke-width="3"/>
+  <text x="78" y="330" fill="#b5c5b6" font-family="Arial, sans-serif" font-size="17" letter-spacing="3">SUSTAINABILITY · SOCIAL IMPACT</text>
+</svg>

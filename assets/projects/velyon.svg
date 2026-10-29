@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title description">
+  <title id="title">Velyon Robotics</title>
+  <desc id="description">Original graphic cover inspired by movement and rehabilitation, not a product screenshot or official logo.</desc>
+  <rect width="1200" height="480" fill="#142017"/>
+  <path d="M0 370C175 320 255 412 415 350s237-32 371-112 225-65 414-138" fill="none" stroke="#344b35" stroke-width="2"/>
+  <path d="M0 405C175 355 255 447 415 385s237-32 371-112 225-65 414-138" fill="none" stroke="#344b35" stroke-width="2"/>
+  <path d="M0 440C175 390 255 482 415 420s237-32 371-112 225-65 414-138" fill="none" stroke="#344b35" stroke-width="2"/>
+  <circle cx="890" cy="220" r="126" fill="none" stroke="#9bb878" stroke-width="2" opacity=".5"/>
+  <circle cx="890" cy="220" r="83" fill="none" stroke="#9bb878" stroke-width="2" opacity=".7"/>
+  <circle cx="890" cy="220" r="10" fill="#c6d9a8"/>
+  <path d="M890 94v116l85 53" fill="none" stroke="#c6d9a8" stroke-width="3"/>
+  <circle cx="975" cy="263" r="7" fill="#c6d9a8"/>
+  <text x="78" y="92" fill="#a9c48a" font-family="Arial, sans-serif" font-size="16" letter-spacing="4">PROJECT / 01</text>
+  <text x="74" y="230" fill="#f3f4ed" font-family="Arial, sans-serif" font-size="72" font-weight="700">Velyon</text>
+  <text x="78" y="278" fill="#d5ddcf" font-family="Arial, sans-serif" font-size="26">Robotics</text>
+  <path d="M78 320h90" stroke="#a9c48a" stroke-width="3"/>
+  <text x="78" y="366" fill="#aab3a4" font-family="Arial, sans-serif" font-size="17" letter-spacing="3">HEALTHTECH · REHABILITATION</text>
+</svg>

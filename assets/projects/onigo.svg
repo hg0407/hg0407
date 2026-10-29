@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title description">
+  <title id="title">ONiGO</title>
+  <desc id="description">Original graphic cover inspired by streaming and digital entertainment, not a product screenshot or official logo.</desc>
+  <rect width="1200" height="480" fill="#111116"/>
+  <path d="M690 0h510v480H830z" fill="#191922"/>
+  <path d="M760 0h170L1200 270v95zM950 0h100l150 155v95z" fill="#21212b"/>
+  <circle cx="950" cy="240" r="124" fill="none" stroke="#8c7cff" stroke-width="2" opacity=".32"/>
+  <circle cx="950" cy="240" r="87" fill="none" stroke="#8c7cff" stroke-width="2" opacity=".52"/>
+  <circle cx="950" cy="240" r="49" fill="#252238"/>
+  <path d="M937 214v52l42-26z" fill="#a99fff"/>
+  <path d="M790 364h300" stroke="#393544" stroke-width="4" stroke-linecap="round"/>
+  <path d="M790 364h168" stroke="#a99fff" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="958" cy="364" r="7" fill="#d2cdff"/>
+  <text x="78" y="92" fill="#a99fff" font-family="Arial, sans-serif" font-size="16" letter-spacing="4">PROJECT / 02</text>
+  <text x="74" y="240" fill="#f5f5f7" font-family="Arial, sans-serif" font-size="82" font-weight="700">ONiGO</text>
+  <path d="M78 292h90" stroke="#8c7cff" stroke-width="3"/>
+  <text x="78" y="342" fill="#aaa9b6" font-family="Arial, sans-serif" font-size="17" letter-spacing="3">STREAMING · ENTERTAINMENT</text>
+</svg>

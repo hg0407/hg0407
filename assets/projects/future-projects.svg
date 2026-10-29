@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title description">
+  <title id="title">More coming soon</title>
+  <desc id="description">Abstract placeholder artwork for future projects.</desc>
+  <rect width="1200" height="480" fill="#111315"/>
+  <path d="M0 80h1200M0 160h1200M0 240h1200M0 320h1200M0 400h1200M120 0v480M240 0v480M360 0v480M480 0v480M600 0v480M720 0v480M840 0v480M960 0v480M1080 0v480" stroke="#202326" stroke-width="1"/>
+  <circle cx="930" cy="240" r="118" fill="none" stroke="#383e46" stroke-width="2" stroke-dasharray="4 12"/>
+  <circle cx="930" cy="240" r="70" fill="none" stroke="#4f8cff" stroke-width="2" opacity=".7"/>
+  <path d="M930 208v64m-32-32h64" stroke="#9bbdff" stroke-width="3"/>
+  <text x="78" y="92" fill="#8da9d8" font-family="Arial, sans-serif" font-size="16" letter-spacing="4">OPEN SPACE / 06</text>
+  <text x="74" y="230" fill="#f3f4f6" font-family="Arial, sans-serif" font-size="62" font-weight="700">MORE</text>
+  <text x="74" y="300" fill="#f3f4f6" font-family="Arial, sans-serif" font-size="62" font-weight="700">COMING SOON</text>
+  <path d="M78 342h90" stroke="#4f8cff" stroke-width="3"/>
+  <text x="78" y="392" fill="#969ba3" font-family="Arial, sans-serif" font-size="16" letter-spacing="3">NEW WORK · WHEN READY TO SHARE</text>
+</svg>
