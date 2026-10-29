@@ -17,12 +17,13 @@ Construindo aplicações, sistemas e produtos digitais.
 **FRONT-END**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32" height="32" alt="React" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/4F8CFF" width="32" height="32" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" height="32" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32" height="32" alt="React" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/4F8CFF" width="32" height="32" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="32" height="32" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" alt="Tailwind CSS" />
 </p>
 
@@ -33,15 +34,22 @@ Construindo aplicações, sistemas e produtos digitais.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="32" height="32" alt="Expo" />
 </p>
 
-**BACK-END & DATA**
+**BACK-END**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" />
+</p>
+
+APIs
+
+**BANCO DE DADOS**
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="32" height="32" alt="MongoDB" />
 </p>
 
-**TOOLS**
+**FERRAMENTAS E INFRAESTRUTURA**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" height="32" alt="Git" />
@@ -104,6 +112,16 @@ Capas gráficas autorais para apresentação dos produtos — não são capturas
     </td>
   </tr>
 </table>
+
+---
+
+## GitHub Analytics
+
+Os endpoints do GitHub Readme Stats retornaram `503` na validação. Estes cards dinâmicos usam o GitHub Profile Summary Cards como alternativa; se o serviço externo estiver indisponível, as demais seções do perfil continuam acessíveis.
+
+![Estatísticas gerais do GitHub para hg0407](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hg0407&theme=github_dark)
+
+![Linguagens dos repositórios de hg0407](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hg0407&theme=github_dark)
 
 ---
 
