@@ -16,7 +16,7 @@ Construindo aplicações, sistemas e produtos digitais.
 
 Desenvolvedor de software com foco em interfaces, produtos digitais e sistemas funcionais. Trabalhando entre front-end, mobile, integrações e organização de experiências de uso, busco combinar código, design e clareza de produto.
 
-Atualmente na **Onitelecom**, desenvolvendo aplicações web e mobile, e concluindo **Ciência da Computação** no **UNIPÊ**.
+Atualmente na **Cyon Systems**, desenvolvendo aplicações web e mobile, e concluindo **Ciência da Computação** no **UNIPÊ**.
 
 ---
 
@@ -135,7 +135,7 @@ Os endpoints do GitHub Readme Stats retornaram `503` na validação. Estes cards
 
 ## EXPERIENCE
 
-**ONITELECOM** · Desenvolvedor Front-end & Mobile · Jun 2024 — Atual<br>
+**CYON SYSTEMS** · Desenvolvedor Front-end & Mobile · Jun 2024 — Atual<br>
 **UNIPÊ** · Ciência da Computação · Em fase de conclusão
 
 ---
