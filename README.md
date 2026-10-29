@@ -125,11 +125,13 @@ Capas gráficas autorais para apresentação dos produtos — não são capturas
 
 ## GitHub Analytics
 
-Os endpoints do GitHub Readme Stats retornaram `503` na validação. Para uma leitura mais fiel ao meu uso real de código, usei o gráfico de linguagens por commits, que costuma representar melhor a rotina de desenvolvimento.
+Os endpoints do GitHub Readme Stats retornaram `503` na validação. O mapa abaixo reúne as linguagens, tecnologias e ferramentas listadas neste perfil; não representa porcentagens de uso nem proficiência.
 
 ![Estatísticas gerais do GitHub para hg0407](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hg0407&theme=github_dark)
 
-![Linguagens mais usadas por commits em hg0407](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hg0407&theme=github_dark)
+## Stack Map
+
+![Mapa de linguagens, tecnologias e ferramentas descritas no perfil](assets/stack-map.svg)
 
 ---
 
